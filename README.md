@@ -150,13 +150,12 @@ Merhaba, ben **Karani**. Bilgisayar Mühendisliği mezunuyum, yaklaşık **5 yı
 
 <div align="center">
 
-<!-- BURASI GÜNCELLENDİ: Kendi depondaki SVG dosyalarını çekiyor -->
-<img height="180" src="./profile/stats.svg" alt="GitHub istatistikleri" />
-<img height="180" src="./profile/top-langs.svg" alt="En çok kullanılan diller" />
+<img height="180" src="https://raw.githubusercontent.com/Karani42Karaman/Karani42Karaman/main/profile/stats.svg?v=3" alt="GitHub istatistikleri" />
+<img height="180" src="https://raw.githubusercontent.com/Karani42Karaman/Karani42Karaman/main/profile/top-langs.svg?v=3" alt="En çok kullanılan diller" />
 
 <br/>
 
-<img src="./profile/streak.svg" alt="GitHub streak" />
+<img src="https://raw.githubusercontent.com/Karani42Karaman/Karani42Karaman/main/profile/streak.svg?v=3" alt="GitHub streak" />
 
 <br/>
 
@@ -170,9 +169,9 @@ Merhaba, ben **Karani**. Bilgisayar Mühendisliği mezunuyum, yaklaşık **5 yı
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karani42Karaman/Karani42Karaman/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karani42Karaman/Karani42Karaman/output/github-snake.svg" />
-  <img alt="GitHub katkı yılanı" src="https://raw.githubusercontent.com/Karani42Karaman/Karani42Karaman/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karani42Karaman/Karani42Karaman/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karani42Karaman/Karani42Karaman/output/snake.svg" />
+  <img alt="GitHub katkı yılanı" src="https://raw.githubusercontent.com/Karani42Karaman/Karani42Karaman/output/snake.svg" />
 </picture>
 </div>
 
