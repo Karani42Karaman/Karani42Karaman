@@ -1,153 +1,185 @@
-<!-- ÜST KISIM: Neon Karşılama Ekranı -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Karani%20Karaman&fontSize=60&fontColor=36BCF7&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20.NET%20%26%20Java&descAlignY=55&descSize=20" alt="Header" />
+<!-- Bu dosya Karani42Karaman/Karani42Karaman reposunun README.md'si olarak kullanılır -->
 
 <div align="center">
-  
-<!-- ZİYARETÇİ SAYACI VE DİNAMİK YAZI -->
-<img src="https://komarev.com/ghpvc/?username=Karani42Karaman&label=PROFIL+GORUNTULEME&color=36BCF7&style=for-the-badge" alt="Profil Görüntüleme" />
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-2ea44f?style=for-the-badge" alt="Status" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2545,100:1B6CA8&height=210&section=header&text=Karani%20Karaman&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20.NET%20ve%20Java&descAlignY=60&descSize=20" alt="Karani Karaman" />
+
+<a href="https://github.com/Karani42Karaman">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=Backend+Developer+%F0%9F%9A%80;.NET+%26+Java+%7C+Spring+Boot+%26+ASP.NET+Core;Mikroservis+%26+Event-Driven+Mimari;RabbitMQ+%7C+Kafka+%7C+Redis+%7C+Docker;Ger%C3%A7ek+zamanl%C4%B1%2C+%C3%B6l%C3%A7eklenebilir+sistemler" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Yeni_f%C4%B1rsatlara-a%C3%A7%C4%B1%C4%9F%C4%B1m-2ea44f?style=for-the-badge" alt="Yeni fırsatlara açığım" />
+<img src="https://komarev.com/ghpvc/?username=Karani42Karaman&label=Profil+Ziyaret%C3%A7i&color=1B6CA8&style=for-the-badge" alt="Profil ziyaretçi sayısı" />
 
 <br/><br/>
 
-<a href="https://github.com/Karani42Karaman">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=+Backend+Developer+%F0%9F%9A%80;+Microservices+Architecture+%E2%9A%99%EF%B8%8F;+.NET+%26+Java+Expert+%F0%9F%92%BB;+Let's+build+scalable+systems!+%F0%9F%8C%90" alt="Typing SVG" />
-</a>
+<a href="https://www.linkedin.com/in/karani-karaman-b12850191/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://medium.com/@karamankarani42"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://www.youtube.com/channel/UC7MGytdIq1BPNlK5o4VVWQA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="mailto:karamankarani42@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
-</div>
-
-<br/>
-
-<!-- HAKKIMDA VE PROFİL RESMİ (KART TASARIMI) -->
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://github.com/Karani42Karaman.png" width="200" style="border-radius: 20px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border: 3px solid #36BCF7;" alt="Karani Karaman" />
-    </td>
-    <td width="60%" valign="middle">
-      <h2>👨‍💻 Hakkımda</h2>
-      <p>Bilgisayar Mühendisliği mezunuyum, yaklaşık <b>5 yıldır</b> backend ağırlıklı yazılım geliştiriyorum. <b>BMW Türkiye</b> dijital platformlarında, havalimanı iç mekan konumlandırma sistemlerinde ve araç filosu takip projelerinde çalıştım.</p>
-      <ul>
-        <li>🔭 Şu an derinleştiğim konular: <b>Java / Spring Boot</b>, <b>Mikroservis Mimarisi</b></li>
-        <li>🎓 <b>Konya Teknik Üniversitesi</b> - Bilgisayar Mühendisliği Yüksek Lisans</li>
-        <li>🧠 Yapay zekâ: <b>ML.NET</b>, yerel LLM'ler (Ollama), <b>MCP</b></li>
-        <li>📫 Bana ulaşın: <a href="https://www.linkedin.com/in/karani-karaman-b12850191/">LinkedIn</a> | <a href="mailto:karamankarani42@gmail.com">E-Posta</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- TEKNOLOJİ YIĞINI -->
-<h2 align="center">🛠️ Teknoloji Yığını</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,js,ts,nodejs,react,nextjs,angular&perline=10" alt="Diller ve Frontend" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch,kafka,rabbitmq,docker,kubernetes,aws,azure,jenkins,nginx,linux,git&perline=15" alt="Veritabanı ve DevOps" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MS SQL" />
-  <img src="https://img.shields.io/badge/Debezium-FF6B00?style=for-the-badge" alt="Debezium" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" />
-  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer" />
 </div>
 
 ---
 
-<!-- ÖNE ÇIKAN PROJELER (ŞIK IZGARA TASARIMI) -->
-<h2 align="center">🚀 Öne Çıkan Projeler</h2>
+## Hakkımda
+
+Yaklaşık 5 yıldır backend ağırlıklı yazılım geliştiriyorum. .NET ve Java ekosistemlerinde, özellikle mikroservis ve event-driven mimarilerde çalışıyorum.
+
+Bu süreçte **BMW Türkiye** dijital platformlarında (Mini Prime, BMW Prime, MyBMW), **havalimanı iç mekan konumlandırma** sistemlerinde (IGA, Sabiha Gökçen) ve **araç filosu takip** projelerinde görev aldım. Yüksek hacimde gerçek zamanlı veri işleyen sistemleri kurmayı, çalıştırmayı ve sade tutmayı seviyorum.
+
+- Şu an derinleştiğim konular: **Java / Spring Boot**, **mikroservis mimarisi**, **React / Next.js**, **PostgreSQL**
+- **Konya Teknik Üniversitesi**'nde Bilgisayar Mühendisliği yüksek lisansı (dağıtık sistem iletişimi, gerçek zamanlı veri)
+- Yapay zekâ tarafında: **ML.NET**, yerel LLM'ler (Ollama), **MCP**
+- Backend mimarisi, event-driven sistemler ve ödeme entegrasyonları üzerine konuşmaya her zaman açığım
+- En hızlı ulaşım: [LinkedIn](https://www.linkedin.com/in/karani-karaman-b12850191/) · karamankarani42@gmail.com
+
+---
+
+## Teknoloji Yığını
 
 <div align="center">
-<table style="border-collapse: collapse; width: 100%;">
+
+**Diller ve Frameworkler**
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,js,ts,nodejs&perline=7" alt="Diller" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,bootstrap&perline=6" alt="Frontend" />
+
+**Veritabanları ve Önbellek**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch&perline=5" alt="Veritabanları" />
+<br/>
+<img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MS SQL Server" />
+<img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white" alt="Kibana" />
+
+**Mesajlaşma ve Streaming**
+
+<img src="https://skillicons.dev/icons?i=kafka,rabbitmq&perline=2" alt="Mesajlaşma" />
+<img src="https://img.shields.io/badge/Debezium-FF6B00?style=flat-square" alt="Debezium" />
+<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT" />
+
+**DevOps ve Bulut**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,jenkins,nginx,linux,git&perline=8" alt="DevOps" />
+
+**Araçlar ve Test**
+
+<img src="https://skillicons.dev/icons?i=postman,selenium,github&perline=3" alt="Araçlar" />
+<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" alt="Puppeteer" />
+
+</div>
+
+---
+
+## Öne Çıkan Projeler
+
+<div align="center">
+<table>
   <tr>
-    <td width="50%" align="center" style="padding: 15px; background-color: #1a1b27; border-radius: 10px; border: 1px solid #36BCF7;">
-      <h3>🧠 <a href="https://github.com/Karani42Karaman/SentimentAnalysis">SentimentAnalysis</a></h3>
-      <p><code>ASP.NET Core 9</code> <code>Clean Architecture</code> <code>CQRS</code> <code>ML.NET</code></p>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/Karani42Karaman/SentimentAnalysis"><b>SentimentAnalysis</b></a><br/>
+      <sub><b>ASP.NET Core 9 · Clean Architecture · CQRS · ML.NET</b></sub><br/>
+      <img src="https://img.shields.io/github/stars/Karani42Karaman/SentimentAnalysis?style=flat-square&logo=github&color=1B6CA8&label=stars" alt="SentimentAnalysis yıldız sayısı" />
     </td>
-    <td width="50%" align="center" style="padding: 15px; background-color: #1a1b27; border-radius: 10px; border: 1px solid #36BCF7;">
-      <h3>🛒 <a href="https://github.com/Karani42Karaman/order-microservices">order-microservices</a></h3>
-      <p><code>.NET Mikroservis</code> <code>Ocelot Gateway</code> <code>Docker</code></p>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/Karani42Karaman/order-microservices"><b>order-microservices</b></a><br/>
+      <sub><b>.NET Mikroservis · Ocelot API Gateway · Docker Compose</b></sub><br/>
+      <img src="https://img.shields.io/github/stars/Karani42Karaman/order-microservices?style=flat-square&logo=github&color=1B6CA8&label=stars" alt="order-microservices yıldız sayısı" />
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" style="padding: 15px; background-color: #1a1b27; border-radius: 10px; border: 1px solid #36BCF7;">
-      <h3>🤖 <a href="https://github.com/Karani42Karaman/mini-gpt">mini-gpt</a></h3>
-      <p><code>React 18</code> <code>.NET 8</code> <code>MongoDB</code> <code>Ollama</code></p>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/Karani42Karaman/mini-gpt"><b>mini-gpt</b></a><br/>
+      <sub><b>React 18 · .NET 8 · MongoDB · Ollama · MCP</b></sub><br/>
+      <img src="https://img.shields.io/github/stars/Karani42Karaman/mini-gpt?style=flat-square&logo=github&color=1B6CA8&label=stars" alt="mini-gpt yıldız sayısı" />
     </td>
-    <td width="50%" align="center" style="padding: 15px; background-color: #1a1b27; border-radius: 10px; border: 1px solid #36BCF7;">
-      <h3>☁️ <a href="https://github.com/Karani42Karaman/CloudMessageQueue">CloudMessageQueue</a></h3>
-      <p><code>Java 17</code> <code>Spring Boot 3</code> <code>RabbitMQ</code> <code>Kubernetes</code></p>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/Karani42Karaman/CloudMessageQueue"><b>CloudMessageQueue</b></a><br/>
+      <sub><b>Java 17 · Spring Boot 3 · RabbitMQ · MQTT · Kubernetes (EKS)</b></sub><br/>
+      <img src="https://img.shields.io/github/stars/Karani42Karaman/CloudMessageQueue?style=flat-square&logo=github&color=1B6CA8&label=stars" alt="CloudMessageQueue yıldız sayısı" />
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" style="padding: 15px; background-color: #1a1b27; border-radius: 10px; border: 1px solid #36BCF7;">
-      <h3>⚡ <a href="https://github.com/Karani42Karaman/reactive-dotnet-cqrs-debezium-kafka">reactive-cqrs-kafka</a></h3>
-      <p><code>CQRS</code> <code>Debezium CDC</code> <code>Apache Kafka</code></p>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/Karani42Karaman/reactive-dotnet-cqrs-debezium-kafka"><b>reactive-dotnet-cqrs-debezium-kafka</b></a><br/>
+      <sub><b>CQRS · Debezium CDC · Apache Kafka</b></sub><br/>
+      <img src="https://img.shields.io/github/stars/Karani42Karaman/reactive-dotnet-cqrs-debezium-kafka?style=flat-square&logo=github&color=1B6CA8&label=stars" alt="reactive-dotnet-cqrs-debezium-kafka yıldız sayısı" />
     </td>
-    <td width="50%" align="center" style="padding: 15px; background-color: #1a1b27; border-radius: 10px; border: 1px solid #36BCF7;">
-      <h3>📈 <a href="https://github.com/Karani42Karaman/ByteClick">ByteClick</a></h3>
-      <p><code>.NET 9</code> <code>EF Core</code> <code>SQL Server</code> <code>TradingView Webhook</code></p>
+    <td align="center" valign="top" width="50%">
+      <a href="https://github.com/Karani42Karaman/ByteClick"><b>ByteClick</b></a><br/>
+      <sub><b>.NET 9 · EF Core · SQL Server · TradingView Webhook</b></sub><br/>
+      <img src="https://img.shields.io/github/stars/Karani42Karaman/ByteClick?style=flat-square&logo=github&color=1B6CA8&label=stars" alt="ByteClick yıldız sayısı" />
     </td>
   </tr>
 </table>
 </div>
-
-<br/>
 
 <details>
-<summary><b>📂 Diğer Projeler (Görmek için tıkla)</b></summary>
+<summary><b>Diğer projeler</b></summary>
 <br/>
 
 | Proje | Teknolojiler |
 |---|---|
-| [Hastane Randevu Sistemi (.NET)](https://github.com/ScuDatabaseHomeWork/DatabaseHomework) | ASP.NET Core 3.1 MVC, EF Core 5, MS SQL Server |
-| [Hastane Randevu Sistemi (Java)](https://github.com/Karani42Karaman/hospital-appointment-system) | Java 11, Spring Boot, JPA, Spring Security, MySQL |
-| [IMS – Envanter Yönetimi](https://github.com/Karani42Karaman/IMS) | Blazor, .NET 6, EF Core, SQL Server |
-| [School Management System](https://github.com/Karani42Karaman/school-managment-system) | Spring Boot, JPA / Hibernate, MySQL |
+| [Hastane Randevu Sistemi (.NET)](https://github.com/ScuDatabaseHomeWork/DatabaseHomework) | ASP.NET Core 3.1 MVC, EF Core 5, MS SQL Server (View, Stored Procedure, Trigger) |
+| [Hastane Randevu Sistemi (Java)](https://github.com/Karani42Karaman/hospital-appointment-system) | Java 11, Spring Boot, JPA, Spring Security, MySQL, Docker Compose |
+| [IMS – Envanter Yönetimi](https://github.com/Karani42Karaman/IMS) | Blazor, .NET 6, EF Core, SQL Server, ASP.NET Core Identity |
+| [School Management System](https://github.com/Karani42Karaman/school-managment-system) | Spring Boot, JPA / Hibernate, MySQL, Docker |
 | [Hotel Management System](https://github.com/Karani42Karaman/hotel-management-system) | Spring Boot, JPA, Spring Security, MySQL |
+| [Deadlock Detection](https://github.com/Karani42Karaman/DeadlockDetection) | Java, kaynak tahsis grafiğinde çevrim tespiti |
 
 </details>
 
 ---
 
-<!-- İSTATİSTİKLER -->
-<h2 align="center">📊 GitHub İstatistiklerim</h2>
-
-<div align="center">
-  <img height="180" src="./profile/stats.svg" alt="İstatistikler" />
-  <img height="180" src="./profile/top-langs.svg" alt="Diller" />
-  <br/>
-  <img src="./profile/streak.svg" alt="Seri" />
-</div>
-
----
-
-<!-- DENEYİM ÇİZELGESİ -->
-<h2 align="center">💼 Kariyer Yolculuğu</h2>
+## Kariyer Yolculuğu
 
 <details open>
-<summary><b>Zaman Çizelgesi</b></summary>
+<summary><b>Zaman çizelgesi</b></summary>
 <br/>
 
-| Dönem | Rol | Şirket | Öne Çıkanlar |
-|---|---|---|---|
-| 02/2026 – 03/2026 | **Full Stack Developer** | Uris Tech | Araç filosu takibi, rota optimizasyonu |
-| 08/2022 – 03/2025 | **Full Stack Developer** | Borusan Otomotiv (BMW) | Mini Prime, MyBMW, Ödeme Entegrasyonları |
-| 05/2022 – 06/2022 | **Developer** | Efectura | Master Data Management (MDM) |
-| 10/2019 – 11/2021 | **Junior Developer** | Detay Teknoloji | İç mekan konumlandırma, IoT |
+| Dönem | Rol | Öne çıkanlar |
+|---|---|---|
+| 02/2026 – 03/2026 | **Full Stack Developer** · Uris Tech | Araç filosu takibi, rota optimizasyonu, ASP.NET MVC, MS SQL Server |
+| 08/2022 – 03/2025 | **Full Stack Developer** · Borusan Otomotiv (BMW Türkiye) | Mini Prime, BMW Prime, MyBMW · .NET Core, Angular · MasterPass / iyzico / Payzee ödeme entegrasyonları |
+| 05/2022 – 06/2022 | **Developer** · Efectura | Master Data Management (MDM) platformu, .NET Framework, MS SQL |
+| 10/2019 – 11/2021 | **Junior Developer** · Detay Teknoloji | IGA & Sabiha Gökçen iç mekan konumlandırma, IoT, RabbitMQ, Kafka, Debezium, Redis |
 
 </details>
 
+---
+
+## GitHub İstatistikleri
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karani42Karaman&theme=tokyonight" alt="Profil özeti" /></td>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karani42Karaman&theme=tokyonight" alt="GitHub istatistikleri" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karani42Karaman&theme=tokyonight" alt="Dillere göre depolar" /></td>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Karani42Karaman&theme=tokyonight" alt="En çok commit yapılan diller" /></td>
+  </tr>
+</table>
+
 <br/>
 
-<!-- ALT KISIM: İLETİŞİM VE FOOTER -->
-<div align="center">
-  <h3>🤝 Birlikte Harika İşler Başaralım</h3>
-  <a href="https://www.linkedin.com/in/karani-karaman-b12850191/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:karamankarani42@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://medium.com/@karamankarani42"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<img src="https://streak-stats.demolab.com?user=Karani42Karaman&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://readme-activity-graph.vercel.app/graph?username=Karani42Karaman&theme=react-dark&hide_border=true&area=true&line=1B6CA8&point=ffffff" alt="Katkı grafiği" />
+
 </div>
 
-<br/>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="Footer" />
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B6CA8,100:0B2545&height=120&section=footer" alt="" />
+</div>
