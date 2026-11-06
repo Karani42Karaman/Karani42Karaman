@@ -150,16 +150,17 @@ Merhaba, ben **Karani**. Bilgisayar Mühendisliği mezunuyum, yaklaşık **5 yı
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Karani42Karaman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub istatistikleri" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karani42Karaman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="En çok kullanılan diller" />
+<!-- BURASI GÜNCELLENDİ: Kendi depondaki SVG dosyalarını çekiyor -->
+<img height="180" src="./profile/stats.svg" alt="GitHub istatistikleri" />
+<img height="180" src="./profile/top-langs.svg" alt="En çok kullanılan diller" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Karani42Karaman&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="./profile/streak.svg" alt="GitHub streak" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karani42Karaman&theme=react-dark&hide_border=true&area=true&color=36BCF7&line=1B6CA8&point=ffffff" alt="Katkı grafiği" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karani42Karaman&theme=react-dark&hide_border=true&area=true&color=36BCF7&line=1B6CA8&point=ffffff&bg_color=1a1b27" alt="Katkı grafiği" />
 
 </div>
 
