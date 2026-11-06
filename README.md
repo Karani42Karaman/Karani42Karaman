@@ -170,11 +170,11 @@ Bu süreçte **BMW Türkiye** dijital platformlarında (Mini Prime, BMW Prime, M
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Karani42Karaman&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=Karani42Karaman&hide_border=true&background=0B2545&border=1B6CA8&stroke=1B6CA8&ring=36BCF7&fire=36BCF7&currStreakNum=FFFFFF&currStreakLabel=36BCF7&sideNums=FFFFFF&sideLabels=B4C5E3&dates=7E9CC9" alt="GitHub streak" />
 
 <br/>
 
-<img src="https://readme-activity-graph.vercel.app/graph?username=Karani42Karaman&theme=react-dark&hide_border=true&area=true&line=1B6CA8&point=ffffff" alt="Katkı grafiği" />
+<img src="https://readme-activity-graph.vercel.app/graph?username=Karani42Karaman&hide_border=true&area=true&bg_color=0B2545&title_color=36BCF7&line=36BCF7&point=FFFFFF&area_color=1B6CA8" alt="Katkı grafiği" />
 
 </div>
 
